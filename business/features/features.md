@@ -17,8 +17,8 @@
 |---|---|---|---|---|---|---|---|---|
 | 1. Mercado | 1.1 Demonstração de top Moedas por Valorização / Desvalorização  | Tabela / Card Ou Gráfico de Barra (A Definir) | Free | Demonstração de dados de indices de moedas com opção padrão de mercado e uma opção para ver as moedas caso cconste no portfólio  | Baixa | Requer cotações atualizado de todos as moedas na data atual | Sim | Sim |
 | 1. Mercado | 1.2 Demonstração de Ultimas Noticias Relevantes do Mercado De Cripto Ativos  | Tabela / Card / Link / Video | Free | Ultimas noticias do segmento de Cripto | Baixa | Requer analise de fontes confiáveis | Sim | Sim |
-| 1. Mercado | 1.3 Demonstração de ativos no formato bubbles de acordo com valorização / desvalorização Top 5  | Grafico Bubble | Free |  | Média | Requer analise de fontes confiáveis | Sim | Sim |
-| 1. Mercado | 1.4 Demonstração de ativos no formato bubbles de acordo com valorização / desvalorização das MOedas Top 30  | Grafico Bubble | **Pro** |  | Média | Requer analise de fontes confiáveis | Sim | Sim |
+| 1. Mercado | 1.3 Demonstração de ativos no formato bubbles de acordo com valorização / desvalorização Top 5  | Grafico Bubble | Free | https://cryptobubbles.net/ | Média | Requer analise de fontes confiáveis | Sim | Sim |
+| 1. Mercado | 1.4 Demonstração de ativos no formato bubbles de acordo com valorização / desvalorização das MOedas Top 30  | Grafico Bubble | **Pro** | https://cryptobubbles.net/ | Média | Requer analise de fontes confiáveis | Sim | Sim |
 | 2. Bip Updates  | 2.1 Demonstração de analises Internas BipView e Parceiros (Cabe avaliar com Ismael o Esforço) | Tabela / Card / Link / Video | **Pro** | Ultimas noticias do segmento de Cripto | Média | Requer criação de conteudo Exclusivo | Sim | Sim |
 | 3. Análise Patrimonial | 3.1 Demonstração de Patrimonio Atualizado - KPI | Indicador | Free | KPI/valor consolidado do patrimônio em FIAT | Baixa | Requer cotações atualizado de todos as moedas na data atual | Sim | Parcial |
 | 3. Análise Patrimonial | 3.2 Demonstração de Evolução Patrimonio  - Gráfico | Gráfico de Linhas | Free | Gráfico de de evolução de  patrimônio em FIAT | Baixa | Requer preços e normalização por conta/subconta | Sim | Sim |
@@ -51,7 +51,7 @@
 | 5. Gestão de Operação | 5.7 Melhores tipos de operação/moedas | Tabela | **Premiun** | Ranking por retorno | **Alta** | Classificação de trades | Não | Insights com tags |
 | 5. Gestão de Operação | 5.8 Comparação de retorno entre criptos | Gráfico de Barras | **Premiun** | Benchmark entre ativos | **Alta** | Índices de ref | Sim | Índice custom BipView |
 | 5. Gestão de Operação | 5.9 Demonstração de Analise de Fee por Exchange e Totais pagor por periodo  | Indicador | **Premiun** | Detalhaemnto de fees | Média | Fee oracle/heurística | Não | Analises Complexas chain/exchange |
-| 5. Gestão de Operação | 5.10 Simulação Historica DCA (BackingTest)   | Indicador | **Premiun** | Simulação Historica (BackingTest) | Média |  (BackingTest) | Não | Analises Complexas chain/exchange |
+| 5. Gestão de Operação | 5.10 Simulação Historica DCA (BackingTest)   | Crud | **Premiun** | Simulação Historica (BackingTest) | Média |  (BackingTest) | Não | Analises Complexas chain/exchange |
 | 6. Insights | 6.1 Alertas de baixa movimentação ou alto risco | Indicador | **Premiun**  | Sinais de risco | Média | Heurísticas e listas | Não | Risco operacional local/BR |
 | 6. Insights | 6.2 Termômetro de Risco | Indicador | **Premiun**  | Score visual de risco | Média | Modelos ponderados | Não | Parâmetros reguláveis |
 | 6. Insights | 6.3 Alerta de alocações | Indicador | **Premiun**  | Desvios de carteira | Baixa | Regras por target | Parcial | Cross-account |
