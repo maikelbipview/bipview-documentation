@@ -10,11 +10,15 @@ Inclui os itens obrigatórios: **10.1 Fiscal (redirect p/ BipDeclare)**, **11.1 
 
 - **Splash Screen**; App shell (dark/light).
 - **Cadastro & Login + RBAC** (tenant/roles).
+- **Perfil e Confgiurações Gerais** Perfil do cliente 
 - **Segurança**: 2FA (TOTP), FaceID/biometria (quando disponível), políticas de senha.
 - **Checkout/Billing**: planos Free/Pro/Premium + Tax (add-on), trial, cupons, feature flags.
-- **Pricing/FX (MVP)**: oráculos, cache, normalização.
+- **Interacionalização**: Estrutura de Internacionalização.
 - **Observabilidade**: logs, métricas, tracing e manuseio de erros.
-- **Protótipo navegável** end-to-end de todas funcionalidades.
+- **Consentimentos LGPD** (banners, preferências de tracking, política de privacidade).
+- **Mascaramento de dados sensíveis** (ex.: esconder valores em público).
+- **Sessão & expiração simuladas** (renovação de token fake, bloqueio por inatividade).
+- **Protótipo navegável** end-to-end de todas funcionalidades (App, Desktop)
 
 **Critérios de aceite**
 
