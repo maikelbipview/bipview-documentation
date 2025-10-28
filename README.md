@@ -18,4 +18,5 @@ Foco em clareza, acurácia e governança.
 - [Features](business/features/features.md)
 - [Billing](business/billing/billing_plan.md)
 - [Roadmap & Sprint Plan](management/roadmap_sprint_plan.md)
+- [Prototypes](business/prototypes/prototypes.md)
 
