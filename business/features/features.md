@@ -62,10 +62,13 @@
 | 7. Configuração  | 7.1 Configurações de Notificações e Alertas Push/email/webhook: prazos, divergências, nova transação, risco | Indicador | **Pro** | Canal unificado de alertas | Média | Throttling e preferências | Parcial | Webhook por evento/tenant |
 | 7. Configuração  | 7.2 Internacinalização | Indicador | **Pro** | INtercainoalização | Média | Throttling e preferências | Parcial | Webhook por evento/tenant |
 | 8. Extras | 8.1 Extrações pdf/csv | Tabela | **Premiun** | Exportar tabelas/relatórios | Baixa | Paginação/limites | Sim | Layouts prontos |
-| 8. Extras | 8.2 Calendário Fiscal | Tabela | **Free** | Agenda de obrigações | Baixa | Regras BR/ano | Não | LGPD, prazos BR |
+| 8. Extras | 8.2 Calendário (Fiscal/Eventos) | Tabela | **Free** | Agenda de obrigações | Baixa | Regras BR/ano | Não | LGPD, prazos BR |
 | 8. Extras | 8.3 Comunidade (Cabe Avaliar)  | Tabela | **Premiun** | Comnidade e Curadoria educativa | **Alta** | CMS simples | Não | Conteúdo regional/BR |
 | 9. Trade | 9.1 Possibilidade de Transacionar na Plataforma (Avalair V2/V3)  | Crud | **Premiun** |Transações de Trade na Plataforma  | **Alta** | CMS simples | Não | Não  |
 | 10. Fiscal | 10.1 Possibilidade de Emissões Fiscais  | Redirect | **Tax (Add-on)** | Apuarações Fiscais BipDeclare  | **Alta** | CMS simples | Não | Não  |
 | 11. Marketing | 11.1 Pagina de Marketing Terceiros  | Redirect | **Tax (Add-on)** | Pagina de Marketing | Média | CMS simples | Não | Não  |
 | 12. Whitelabel (Desktop) | 12.1 Controle Whitelabel  | Redirect | **Tax (Add-on)** | Controle Whitelabel | Média | CMS simples | Não | Não  |
-| 13. Controle de Acesso | 13.1 Controle de Multiplos Portfólios  | Redirect | **Premium** | Controle de Multiplos Portfólios | Média | CMS simples | Não | Não  |
+| 13. Controle de Acesso | 13.1 Controle de Multiplos Portfólios  | Crud | **Premium** | Gestão de Multiplos Portfólios de um cliente  | Média | CMS simples | Não | Não  |
+| 14. Modulo de assesor PJ  | 14.1 Controle de Multiplos Portfólios de assesoria (V1/V2) | Módulo | **Premium** | Controle de Multiplos Portfólios de assesoria   | **Alta** | CMS simples (V1/V2) | Não | Não  |
+| 15. Versão Light  | 14.1 Versão Light  Crud | Módulo | **Premium** | Versão Light   | **Alta** | Simples (V1/V2) | Não | Não  |
+ 
